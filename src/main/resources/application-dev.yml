@@ -1,0 +1,3 @@
+logback:
+  logdir: d:/log/dev
+  appname: sell
