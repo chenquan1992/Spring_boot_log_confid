@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
  * Time: 10:45
  */
 @RestController
-@RequestMapping("/hello")
+@RequestMapping("/logConfig")
 @Slf4j
-public class Controller {
+public class LogConfigController {
 
     @RequestMapping("test1")
     public String test1() {

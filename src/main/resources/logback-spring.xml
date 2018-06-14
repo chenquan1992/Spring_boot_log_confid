@@ -103,7 +103,7 @@
         </encoder>
     </appender>
 
-    <logger name="cn.toher.log_config_demo.controller.Controller" level="debug" additivity="false">
+    <logger name="cn.toher.log_config_demo.controller.LogConfigController" level="debug" additivity="false">
         <appender-ref ref="aloneFile"/>
     </logger>
     <!-- ———————————————————————————————————————————————————————————————— -->
